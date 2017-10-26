@@ -1,0 +1,10 @@
+DEFINE ManualReview BackgroundCheck
+CREATE dan@fountain.com
+CREATE paul@fountain.com
+Duplicate applicant
+ADVANCE paul@fountain.com
+Already in BackgroundCheck
+Hired paul@fountain.com
+Failed to decide for dan@fountain.com
+ADVANCE dan@fountain.com
+Hired dan@fountain.com

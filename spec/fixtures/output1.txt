@@ -1,0 +1,6 @@
+DEFINE ManualReview BackgroundCheck DocumentSigning
+ManualReview 0 BackgroundCheck 0 DocumentSigning 0 Hired 0 Rejected 0
+CREATE howon@fountain.com
+ADVANCE howon@fountain.com
+Rejected howon@fountain.com
+ManualReview 0 BackgroundCheck 0 DocumentSigning 0 Hired 0 Rejected 1
